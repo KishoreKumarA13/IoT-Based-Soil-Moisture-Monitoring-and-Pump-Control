@@ -1,7 +1,0 @@
-*.exe
-*.o
-*.obj
-*.tmp
-*.log
-.DS_Store
-.vscode/
